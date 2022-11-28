@@ -1,10 +1,7 @@
-- 👋 <HELLO WORLD> ...
-- 👀 <"I’m @DVRKBOI ">...
-- 🌱 <I’m currently learning> ...
-- 💞️  { I’m Ddoser} ...
-- 📫 <> EDIT new file ...
-
-<!---
-DVRKBOI/DVRKBOI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+l001  01111110    1010        0100   $$$$$$
+l001  01      10  1011        1010   $$    $
+l001  00    00    0100        0100   $$
+l001  01011101    1001        1001   $$$$$$$
+l001  00     00   1000        0111        $$
+l001  00      00  0101100101  1110  $     $$
+l00l  01011001    1010001100  1100   $$$$$$$
